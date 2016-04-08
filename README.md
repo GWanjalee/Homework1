@@ -119,8 +119,8 @@ the goal of this level built on the previous challenge, we have to preform the s
 ![17](https://cloud.githubusercontent.com/assets/18299123/14381522/8444df8c-fda4-11e5-8938-90d18d047528.PNG)
 ![17-16](https://cloud.githubusercontent.com/assets/18299123/14381523/845f79c8-fda4-11e5-96be-1a7dfd154ecc.PNG)
 
-Problems occured
+Problems occured - 
 
 ssh doesn't support to the university WIFI-because Sssh is affect to internal servers.
 
-After completing the 17th level cygwin didn't give me any password which I needed for the level 18.
+After completing the 17th level, it didn't show me any password which I needed for the level 18.
