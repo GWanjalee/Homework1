@@ -64,20 +64,41 @@ the password for the level 8 was in the file called “data.txt” which was nex
 
 ![7-8](https://cloud.githubusercontent.com/assets/18299123/14381506/83e800f0-fda4-11e5-96b2-63def317e331.PNG)
 
-
+Level 8 - Level 9
 
 ![8-9](https://cloud.githubusercontent.com/assets/18299123/14381507/83e93286-fda4-11e5-9f31-a6f92376a7e2.PNG)
+
+Level 9 - Level 10
+
 ![9-10](https://cloud.githubusercontent.com/assets/18299123/14381510/83ece8a4-fda4-11e5-87a0-d104e76d09a1.PNG)
-![10](https://cloud.githubusercontent.com/assets/18299123/14381511/83fb6b22-fda4-11e5-8dc7-acdb43681b70.PNG)
+
+Level 10 - Level 11
+
 ![10-11](https://cloud.githubusercontent.com/assets/18299123/14381514/841a5fbe-fda4-11e5-92f7-90e0c4370a61.PNG)
+
+Level 11 - Level 12
+
 ![11-12](https://cloud.githubusercontent.com/assets/18299123/14381516/841c2a1a-fda4-11e5-983e-a53ae2c23ce5.PNG)
+
+Level 12 - Level 13
 ![12](https://cloud.githubusercontent.com/assets/18299123/14381512/8419e99e-fda4-11e5-9cb8-ae192d7ed1e6.PNG)
 ![13](https://cloud.githubusercontent.com/assets/18299123/14381515/841a9092-fda4-11e5-9cdc-4a80bbe68c80.PNG)
-![13-14](https://cloud.githubusercontent.com/assets/18299123/14381513/8419c554-fda4-11e5-849e-32ff7beb5c9c.PNG)
+
+Level 13 - Level 14
+
 ![14](https://cloud.githubusercontent.com/assets/18299123/14381517/842d8562-fda4-11e5-98a2-955a5c27614d.PNG)
+![13-14](https://cloud.githubusercontent.com/assets/18299123/14381513/8419c554-fda4-11e5-849e-32ff7beb5c9c.PNG)
+
+Level 14 - Level 15
+
 ![14-15](https://cloud.githubusercontent.com/assets/18299123/14381521/84421cca-fda4-11e5-9c28-883ca42a7f0a.PNG)
+
+Level 15 - Level 16
+
 ![15](https://cloud.githubusercontent.com/assets/18299123/14381520/84421982-fda4-11e5-8f3a-cf3f16070828.PNG)
 ![15-16](https://cloud.githubusercontent.com/assets/18299123/14381518/84408ab8-fda4-11e5-8c5f-8ac6d8f25591.PNG)
-![16](https://cloud.githubusercontent.com/assets/18299123/14381519/8441209a-fda4-11e5-8685-708cea8728ab.PNG)
+
+Level 16 - Level 17
+
 ![17](https://cloud.githubusercontent.com/assets/18299123/14381522/8444df8c-fda4-11e5-8938-90d18d047528.PNG)
 ![17-16](https://cloud.githubusercontent.com/assets/18299123/14381523/845f79c8-fda4-11e5-96be-1a7dfd154ecc.PNG)
