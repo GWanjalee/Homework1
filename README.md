@@ -1,9 +1,11 @@
 # Homework1
 OverTheWire: Wargames - Bandit
 
-The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.This game, like most other games, is organised in levels. We can start at Level 0 and try to “beat” or “finish” it. Finishing a level results in information on how to start the next level. While playing this game I got a good knowledge about linux.
+The Bandit wargame is aimed at absolute beginners. It teaches the basics needed to be able to play other wargames.Like most other games, this game also contains several levels. We can start at Level 0 and try to “beat” or “finish” it. Finishing a level results in information on how to start the next level. While playing this game I got a good knowledge about linux.
 
-Hints and commands given in the OverTheWire website was used as a guide to find the password fro the next level.
+Hints and commands given in the "OverTheWire" website was used as a guide to find the password for the next level.
+
+Below it shows the levels which were completed by me.
 
 Level 0
 
