@@ -1,9 +1,16 @@
 # Homework1
 OverTheWire: Wargames - Bandit
 
-hsjj
+The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.This game, like most other games, is organised in levels. We can start at Level 0 and try to “beat” or “finish” it. Finishing a level results in information on how to start the next level. While playing this game I got a good knowledge about linux.
+
+Level 0
+
+This was a simple challenge in which I had to log-in in via ssh to the target machine using the password "bandit0".
 
 ![0](https://cloud.githubusercontent.com/assets/18299123/14381501/83c118f0-fda4-11e5-8056-bc4466cc2672.PNG)
+
+Level 0 - Level 1
+
 ![0-1](https://cloud.githubusercontent.com/assets/18299123/14381502/83c13cae-fda4-11e5-9816-623c5dff325f.PNG)
 ![1-2](https://cloud.githubusercontent.com/assets/18299123/14381503/83c13c68-fda4-11e5-8a57-79050c95a357.PNG)
 ![2-3](https://cloud.githubusercontent.com/assets/18299123/14381504/83c4a5b0-fda4-11e5-835b-f64556ab96a6.PNG)
