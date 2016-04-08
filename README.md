@@ -51,12 +51,7 @@ The password for the level 6 was stored in a file somewhere under the inhere dir
 
 Level 6 - Level 7
 
-The password for the level 7 was in a file somewhere on the server and have the following characteristics:
-
-owned by user bandit7
-owned by group bandit6
-33 bytes in size
-Therefore again I used the find command to find the password.
+The password for the level 7 was in a file somewhere on the server and have the following characteristics: owned by user bandit7, owned by group bandit6, 33 bytes in size.Therefore again I used the find command to find the password.
 
 ![6-7](https://cloud.githubusercontent.com/assets/18299123/14381508/83e938c6-fda4-11e5-99aa-186bcf5462b9.PNG)
 
