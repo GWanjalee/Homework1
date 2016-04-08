@@ -122,4 +122,5 @@ the goal of this level built on the previous challenge, we have to preform the s
 Problems occured
 
 ssh doesn't support to the university WIFI-because Sssh is affect to internal servers.
-After completing 17th level cygwin didn't give me any password which I needed for the level 18.
+
+After completing the 17th level cygwin didn't give me any password which I needed for the level 18.
